@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_98" data-name="Rectangle 98" width="15.582" height="14.571" transform="translate(0 0)" fill="none" stroke="#fff" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_5681" data-name="Group 5681" transform="translate(-171 -197)">
+    <rect id="Rectangle_2913" data-name="Rectangle 2913" width="30" height="30" rx="10" transform="translate(171 197)" fill="#fd8f05"/>
+    <g id="Group_217" data-name="Group 217" transform="translate(178 205)">
+      <g id="Group_216" data-name="Group 216" clip-path="url(#clip-path)">
+        <rect id="Rectangle_94" data-name="Rectangle 94" width="6.42" height="5.835" rx="2.124" transform="translate(0.5 0.5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+        <rect id="Rectangle_95" data-name="Rectangle 95" width="6.42" height="5.835" rx="2.124" transform="translate(8.662 0.5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+        <rect id="Rectangle_96" data-name="Rectangle 96" width="6.42" height="5.835" rx="2.124" transform="translate(0.5 8.236)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+        <rect id="Rectangle_97" data-name="Rectangle 97" width="6.42" height="5.835" rx="2.124" transform="translate(8.662 8.236)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

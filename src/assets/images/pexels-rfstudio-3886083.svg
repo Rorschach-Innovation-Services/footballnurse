@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="571" height="601" viewBox="0 0 571 601">
+  <defs>
+    <pattern id="pattern" width="1" height="1" viewBox="20.468 0 571 601">
+      <image preserveAspectRatio="xMidYMid slice" width="841.295" height="601" xlink:href="pexels-rfstudio-3886083-image.jpg"/>
+    </pattern>
+  </defs>
+  <g id="pexels-rfstudio-3886083" stroke="#707070" stroke-width="1" fill="url(#pattern)">
+    <path d="M0,0H561a10,10,0,0,1,10,10V591a10,10,0,0,1-10,10H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+    <path d="M.5.5H561a9.5,9.5,0,0,1,9.5,9.5V591a9.5,9.5,0,0,1-9.5,9.5H.5a0,0,0,0,1,0,0V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+  </g>
+</svg>

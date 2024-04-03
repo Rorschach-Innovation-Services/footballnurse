@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="9" height="5.001" viewBox="0 0 9 5.001">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2161" data-name="Rectangle 2161" width="9" height="5" transform="translate(0 0)" fill="#1f6521"/>
+    </clipPath>
+  </defs>
+  <g id="Vector_Smart_Object" data-name="Vector Smart Object" transform="translate(-677 -231)">
+    <g id="Vector_Smart_Object-2" data-name="Vector Smart Object" transform="translate(677 231)">
+      <g id="Group_3876" data-name="Group 3876">
+        <g id="Group_3875" data-name="Group 3875" clip-path="url(#clip-path)">
+          <path id="Path_3269" data-name="Path 3269" d="M8.834.949,4.9,4.837a.568.568,0,0,1-.8,0L.166.949A.555.555,0,0,1,.564,0H8.436a.555.555,0,0,1,.4.949" fill="#1f6521"/>
+        </g>
+      </g>
+    </g>
+    <path id="Color_Overlay" data-name="Color Overlay" d="M681.1,235.838l-3.937-3.888a.541.541,0,0,1-.166-.371v-.037a.559.559,0,0,1,.564-.542h7.871a.555.555,0,0,1,.4.949l-3.936,3.888a.567.567,0,0,1-.8,0Z" fill="#1f6521" opacity="0.98"/>
+  </g>
+</svg>
