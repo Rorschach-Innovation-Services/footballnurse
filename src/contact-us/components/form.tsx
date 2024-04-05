@@ -1,4 +1,4 @@
-import { Button, Container, Group, Image, Select, Text, Textarea, TextInput } from "@mantine/core";
+import { Button, Container, Group, Image, Text, Textarea, TextInput } from "@mantine/core";
 import { ChangeEvent, FormEvent, useState } from "react";
 import { Colours } from "../../colours";
 import BlueBack from "../../assets/images/blue.svg";
@@ -128,10 +128,6 @@ export const Form = () => {
         <Group
           direction="column"
         >
-          <Select
-            placeholder="Select"
-            data={[]}
-          />
           <InputComponent
             valueList={[
               {
